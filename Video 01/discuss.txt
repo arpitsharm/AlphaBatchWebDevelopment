@@ -1,0 +1,9 @@
+📚 Module 1: Introduction to Web Development
+1. **What is Web Development? A Beginner’s Roadmap!**  
+   - Frontend vs Backend
+   - How the Internet Works (Request-Response Cycle)  
+   - Career Paths in Web Development  
+2. **Setting Up Your Development Environment**  
+   - Installing VS Code/Cursor.ai, Chrome, and Extensions  
+   - Use of AI
+   - Install Python and Django
