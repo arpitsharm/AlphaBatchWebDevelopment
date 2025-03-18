@@ -1,0 +1,6 @@
+### 🔥 Tutorial 2: HTML – The Structure of Web Pages
+**HTML Basics: Your First Webpage!**  
+   - What is HTML?  
+   - HTML boilerplate = !
+   - Understanding HTML Syntax  
+   - Writing Your First program with `<h1>`, `<p>`, `<img>`, `<a>`, `<video>` Tags  

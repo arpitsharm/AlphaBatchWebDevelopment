@@ -1,0 +1,10 @@
+what is html?
+Hyper Text Markup language
+
+Car = engine = JS
+Car = paint/seats = CSS
+Car = dacha = HTML
+
+Body = mind = JS
+Body = colour and etc = CSS
+Body = skelton = HTML
