@@ -1,0 +1,1 @@
+`<header>`, `<footer>`, `<article>`, `<section>`, `<div>`, `main atributes like classes and id`
