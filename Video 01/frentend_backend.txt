@@ -1,0 +1,11 @@
+Frontend
+simple website like you see
+only like you see
+no any click to database
+button = run X
+
+Backend
+advance website like you see and here you will all thing and here we use reactJS, Django,Flask.
+only like you see and watch you see
+yes click to database
+button = run/database/query/generative code/anything

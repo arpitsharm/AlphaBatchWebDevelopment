@@ -1,0 +1,6 @@
+what is web development?
+website = development
+dark theme
+Django/flask
+CSS/Bootstrap/Tailwind css
+simple website development is create a website with your skills and improve your skills
