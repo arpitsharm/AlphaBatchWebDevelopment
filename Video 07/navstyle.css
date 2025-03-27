@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.nav .navContent{
+    display: flex;
+    list-style-type: none;
+}
+
+.nav .navContent a {
+    color: red;
+    padding: 10px;
+}
+
+.nav li a {
+    text-decoration: none;
+}
