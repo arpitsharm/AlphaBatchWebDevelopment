@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.nav {
+    padding: 18px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav .links {
+    display: flex;
+    gap: 10px;
+}
+
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+#home .home {
+    display: flex;
+    justify-content: space-between;
+}
+
+#home .home .speak {
+    padding: 10px;
+    width: 500px;
+}
+
+#home .home .image1 {
+    margin-top: -80px;
+}
+
+#home h1 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#about .about {
+    display: flex;
+    justify-content: space-between;
+}
+
+#about .about .phara {
+    padding: 10px;
+    width: 500px;
+}
+
+#about .about .phara ul{
+    display: flex;
+}
+
+#about .about .phara ul li {
+    padding: 10px;
+}
+
+#about .about .image2 {
+    margin-top: -80px;
+}
+
+#about h1 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#project h1 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#project .cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+#project .cards .card1, .card2, .card3 {
+    background-color: #333;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 300px;
+    height: 200px;
+}
+
+#project .cards .card {
+    height: 400px;
+}
+
+#project .cards .card h2, p, button {
+    margin: 10px;
+}
+
+#project .cards .card button {
+    padding: 10px;
+    width: 80px;
+    background-color: rgba(68, 68, 202, 0.417);
+    border: 0px solid black;
+    border-radius: 100px;
+}
+
+#contact h1 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+
+#contact input {
+    width: 400px;
+    height: 40px;
+    border-radius: 80px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#contact textarea {
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.btn {
+    background-color: purple;
+    border: 0px solid black;
+}
+
+
+.footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
