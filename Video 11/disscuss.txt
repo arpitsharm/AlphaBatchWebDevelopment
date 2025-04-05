@@ -1,0 +1,18 @@
+Animation Part 2
+@keyframes
+:- keyframes is a function of the css.
+
+animation-name: Specifies which keyframes to use.
+
+animation-duration: Defines how long the animation will take.
+
+animation-timing-function: Controls the timing curve (e.g., ease, linear, etc.).
+
+animation-delay: Specifies the delay before the animation starts.
+
+animation-iteration-count: Defines how many times the animation will repeat (e.g., infinite for endless).
+
+animation-direction: Controls the direction of the animation (e.g., normal, reverse, alternate).
+
+How to use keyframes in css[COMPLETED]
+How to use animation propertes[COMPLETED]
